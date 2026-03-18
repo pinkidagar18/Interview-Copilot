@@ -1,0 +1,1250 @@
+2026-03-18 12:40:58 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:40:58 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 4ms
+2026-03-18 12:41:04 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:41:04 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:41:14 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:41:14 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:41:25 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:41:25 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:41:35 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:41:35 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:41:45 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:41:45 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:41:55 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:41:55 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:42:05 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:42:05 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:42:15 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:42:15 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:42:25 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:42:25 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:42:35 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:42:35 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:42:45 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:42:45 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:42:48 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:42:48 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:42:49 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:42:49 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:42:55 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:42:55 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:42:59 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:42:59 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:43:05 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:43:05 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:43:09 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:43:09 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:43:15 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:43:15 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:43:25 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:43:25 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:43:35 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:43:35 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:43:45 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:43:45 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:43:55 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:43:55 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:44:05 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:44:05 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:44:15 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:44:15 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:44:25 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:44:25 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:44:36 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:44:36 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 12:44:46 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:44:46 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:44:56 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:44:56 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:45:06 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:45:06 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:45:16 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:45:16 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:45:26 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:45:26 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:45:36 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:45:36 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:45:46 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:45:46 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:45:56 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:45:56 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:46:53 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:46:53 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 12:46:53 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:46:53 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:46:53 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:46:53 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:46:53 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:46:53 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 12:46:53 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:46:53 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:46:56 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:46:56 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:47:06 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:47:06 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:47:16 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:47:16 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:47:26 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:47:26 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:47:36 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:47:36 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:47:47 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:47:47 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:47:57 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:47:57 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:48:07 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:48:07 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:48:17 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:48:17 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:48:27 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:48:27 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:48:37 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:48:37 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:48:47 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:48:47 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:48:57 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:48:57 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:49:07 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:49:07 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:49:17 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:49:17 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:49:27 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:49:27 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:49:37 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:49:37 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:49:47 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:49:47 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:49:57 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:49:57 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:50:07 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:50:07 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:50:18 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:50:18 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:50:28 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:50:28 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:50:38 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:50:38 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:50:48 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:50:48 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:50:58 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:50:58 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:52:05 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:52:05 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:52:05 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:52:06 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:52:06 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:52:06 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 4ms
+2026-03-18 12:52:08 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:52:08 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:52:09 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:52:16 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:52:16 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:52:16 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:52:17 | [32m[1mINFO[0m | api.main             | → POST /upload-resume
+2026-03-18 12:52:17 | [32m[1mINFO[0m | api.main             | Resume upload received: pinki (1).pdf (application/pdf)
+2026-03-18 12:52:17 | [32m[1mINFO[0m | api.main             | Resume extracted: 2,519 chars from 'pinki (1).pdf' in 77ms
+2026-03-18 12:52:17 | [32m[1mINFO[0m | api.main             | ← POST /upload-resume | 200 | 86ms
+2026-03-18 12:52:19 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:52:19 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:52:19 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:52:26 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:52:26 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:52:26 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:52:29 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:52:29 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:52:29 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:52:29 | [32m[1mINFO[0m | api.main             | → OPTIONS /start
+2026-03-18 12:52:29 | [32m[1mINFO[0m | api.main             | ← OPTIONS /start | 200 | 1ms
+2026-03-18 12:52:29 | [32m[1mINFO[0m | api.main             | → POST /start
+2026-03-18 12:52:29 | [32m[1mINFO[0m | api.start            | [68b65d70] New session started | Company: google | Resume: 2,518 chars | JD: 9 chars
+2026-03-18 12:52:29 | [32m[1mINFO[0m | api.start            | [68b65d70] Running Resume Parser...
+2026-03-18 12:52:30 | [32m[1mINFO[0m | api.start            | [68b65d70] Resume Parser completed in 867ms
+2026-03-18 12:52:30 | [32m[1mINFO[0m | api.start            | [68b65d70] Running JD Analyzer...
+2026-03-18 12:52:30 | [32m[1mINFO[0m | api.start            | [68b65d70] JD Analyzer completed in 642ms
+2026-03-18 12:52:30 | [32m[1mINFO[0m | api.start            | [68b65d70] Running Web Researcher...
+2026-03-18 12:52:36 | [32m[1mINFO[0m | api.start            | [68b65d70] Web Researcher completed in 6065ms
+2026-03-18 12:52:36 | [32m[1mINFO[0m | api.start            | [68b65d70] Running Question Generator...
+2026-03-18 12:52:41 | [32m[1mINFO[0m | api.start            | [68b65d70] Question Generator completed in 4639ms
+2026-03-18 12:52:41 | [32m[1mINFO[0m | api.start            | [68b65d70] Running Interviewer...
+2026-03-18 12:52:41 | [32m[1mINFO[0m | api.start            | [68b65d70] Interviewer completed in 471ms
+2026-03-18 12:52:41 | [32m[1mINFO[0m | api.start            | [68b65d70] Session ready | 15 questions generated | Total time: 12685ms
+2026-03-18 12:52:41 | [32m[1mINFO[0m | api.main             | ← POST /start | 200 | 12690ms
+2026-03-18 12:52:41 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:52:41 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:52:41 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:52:41 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:52:41 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:52:41 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:52:46 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:52:46 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:52:46 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:52:48 | [32m[1mINFO[0m | api.main             | → OPTIONS /answer
+2026-03-18 12:52:48 | [32m[1mINFO[0m | api.main             | ← OPTIONS /answer | 200 | 1ms
+2026-03-18 12:52:48 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:52:48 | [32m[1mINFO[0m | api.answer           | [68b65d70] Answer received for Q1/15 | 8 chars
+2026-03-18 12:52:49 | [32m[1mINFO[0m | api.answer           | [68b65d70] Q1 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1018ms
+2026-03-18 12:52:50 | [32m[1mINFO[0m | api.answer           | [68b65d70] Moving to Q2/15
+2026-03-18 12:52:50 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1619ms
+2026-03-18 12:52:50 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:52:50 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:52:50 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 12:52:55 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:52:55 | [32m[1mINFO[0m | api.answer           | [68b65d70] Answer received for Q2/15 | 11 chars
+2026-03-18 12:52:56 | [32m[1mINFO[0m | api.answer           | [68b65d70] Q2 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 870ms
+2026-03-18 12:52:56 | [32m[1mINFO[0m | api.answer           | [68b65d70] Moving to Q3/15
+2026-03-18 12:52:56 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1273ms
+2026-03-18 12:52:56 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:52:56 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:52:56 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:52:59 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:52:59 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:52:59 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:53:02 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:53:02 | [32m[1mINFO[0m | api.answer           | [68b65d70] Answer received for Q3/15 | 12 chars
+2026-03-18 12:53:03 | [32m[1mINFO[0m | api.answer           | [68b65d70] Q3 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 947ms
+2026-03-18 12:53:04 | [32m[1mINFO[0m | api.answer           | [68b65d70] Moving to Q4/15
+2026-03-18 12:53:04 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1572ms
+2026-03-18 12:53:06 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:53:06 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:53:06 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:53:08 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:53:08 | [32m[1mINFO[0m | api.answer           | [68b65d70] Answer received for Q4/15 | 11 chars
+2026-03-18 12:53:09 | [32m[1mINFO[0m | api.answer           | [68b65d70] Q4 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 829ms
+2026-03-18 12:53:10 | [32m[1mINFO[0m | api.answer           | [68b65d70] Moving to Q5/15
+2026-03-18 12:53:10 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1274ms
+2026-03-18 12:53:10 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:53:10 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:53:10 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:53:13 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:53:13 | [32m[1mINFO[0m | api.answer           | [68b65d70] Answer received for Q5/15 | 7 chars
+2026-03-18 12:53:14 | [32m[1mINFO[0m | api.answer           | [68b65d70] Q5 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 842ms
+2026-03-18 12:53:15 | [32m[1mINFO[0m | api.answer           | [68b65d70] Moving to Q6/15
+2026-03-18 12:53:15 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1325ms
+2026-03-18 12:53:16 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:53:16 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:53:16 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:53:19 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:53:19 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:53:19 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:53:20 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:53:20 | [32m[1mINFO[0m | api.answer           | [68b65d70] Answer received for Q6/15 | 7 chars
+2026-03-18 12:53:21 | [32m[1mINFO[0m | api.answer           | [68b65d70] Q6 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1281ms
+2026-03-18 12:53:21 | [32m[1mINFO[0m | api.answer           | [68b65d70] Moving to Q7/15
+2026-03-18 12:53:21 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1822ms
+2026-03-18 12:53:26 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:53:26 | [32m[1mINFO[0m | api.answer           | [68b65d70] Answer received for Q7/15 | 8 chars
+2026-03-18 12:53:27 | [32m[1mINFO[0m | api.answer           | [68b65d70] Q7 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1029ms
+2026-03-18 12:53:27 | [32m[1mINFO[0m | api.answer           | [68b65d70] Moving to Q8/15
+2026-03-18 12:53:27 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1430ms
+2026-03-18 12:53:27 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:53:27 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:53:27 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:53:29 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:53:29 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:53:29 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:53:37 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:53:37 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:53:37 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:53:39 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:53:39 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:53:39 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:53:40 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:53:40 | [32m[1mINFO[0m | api.answer           | [68b65d70] Answer received for Q8/15 | 10 chars
+2026-03-18 12:53:41 | [32m[1mINFO[0m | api.answer           | [68b65d70] Q8 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1104ms
+2026-03-18 12:53:42 | [32m[1mINFO[0m | api.answer           | [68b65d70] Moving to Q9/15
+2026-03-18 12:53:42 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1627ms
+2026-03-18 12:53:46 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:53:46 | [32m[1mINFO[0m | api.answer           | [68b65d70] Answer received for Q9/15 | 10 chars
+2026-03-18 12:53:47 | [32m[1mINFO[0m | api.answer           | [68b65d70] Q9 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 971ms
+2026-03-18 12:53:48 | [32m[1mINFO[0m | api.answer           | [68b65d70] Moving to Q10/15
+2026-03-18 12:53:48 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1563ms
+2026-03-18 12:53:48 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:53:48 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:53:48 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:53:49 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:53:49 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:53:49 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 12:53:53 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:53:53 | [32m[1mINFO[0m | api.answer           | [68b65d70] Answer received for Q10/15 | 4 chars
+2026-03-18 12:53:54 | [32m[1mINFO[0m | api.answer           | [68b65d70] Q10 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 878ms
+2026-03-18 12:53:54 | [32m[1mINFO[0m | api.answer           | [68b65d70] Moving to Q11/15
+2026-03-18 12:53:54 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1228ms
+2026-03-18 12:53:57 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:53:57 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:53:57 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:53:59 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:53:59 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:53:59 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:54:03 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:54:03 | [32m[1mINFO[0m | api.answer           | [68b65d70] Answer received for Q11/15 | 32 chars
+2026-03-18 12:54:04 | [32m[1mINFO[0m | api.answer           | [68b65d70] Q11 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 993ms
+2026-03-18 12:54:05 | [32m[1mINFO[0m | api.answer           | [68b65d70] Moving to Q12/15
+2026-03-18 12:54:05 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1735ms
+2026-03-18 12:54:07 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:54:07 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:54:07 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:54:09 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:54:09 | [32m[1mINFO[0m | api.answer           | [68b65d70] Answer received for Q12/15 | 16 chars
+2026-03-18 12:54:10 | [32m[1mINFO[0m | api.answer           | [68b65d70] Q12 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 830ms
+2026-03-18 12:54:10 | [32m[1mINFO[0m | api.answer           | [68b65d70] Moving to Q13/15
+2026-03-18 12:54:10 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1212ms
+2026-03-18 12:54:10 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:54:10 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:54:10 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:54:15 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:54:15 | [32m[1mINFO[0m | api.answer           | [68b65d70] Answer received for Q13/15 | 12 chars
+2026-03-18 12:54:25 | [32m[1mINFO[0m | api.answer           | [68b65d70] Q13 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 9781ms
+2026-03-18 12:54:26 | [32m[1mINFO[0m | api.answer           | [68b65d70] Moving to Q14/15
+2026-03-18 12:54:26 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 11097ms
+2026-03-18 12:54:26 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:54:26 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:54:26 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:54:26 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:54:26 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:54:26 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:54:27 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:54:27 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:54:27 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:54:30 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:54:30 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:54:30 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:54:32 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:54:32 | [32m[1mINFO[0m | api.answer           | [68b65d70] Answer received for Q14/15 | 10 chars
+2026-03-18 12:54:33 | [32m[1mINFO[0m | api.answer           | [68b65d70] Q14 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1434ms
+2026-03-18 12:54:34 | [32m[1mINFO[0m | api.answer           | [68b65d70] Moving to Q15/15
+2026-03-18 12:54:34 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 2770ms
+2026-03-18 12:54:37 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:54:37 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:54:37 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:54:40 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:54:40 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:54:40 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:54:41 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:54:41 | [32m[1mINFO[0m | api.answer           | [68b65d70] Answer received for Q15/15 | 9 chars
+2026-03-18 12:54:55 | [32m[1mINFO[0m | api.answer           | [68b65d70] Q15 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 13375ms
+2026-03-18 12:54:55 | [32m[1mINFO[0m | api.answer           | [68b65d70] All questions answered — generating report...
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.answer           | [68b65d70] Report generated in 45654ms | Final avg score: 0.0/10 (0%)
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 59033ms
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | → OPTIONS /answer
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | → OPTIONS /answer
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | → OPTIONS /answer
+2026-03-18 12:55:40 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:55:40 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:55:40 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 7ms
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 7ms
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | ← OPTIONS /answer | 200 | 7ms
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | ← OPTIONS /answer | 200 | 7ms
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 7ms
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | ← OPTIONS /answer | 200 | 8ms
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:55:40 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:55:40 | [31m[1mERROR[0m | api.main             | [SESSION_ALREADY_COMPLETE] Session '68b65d70' is already complete. Use /report to get your results. | Path: /answer
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | ← POST /answer | 400 | 6ms
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:55:40 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:55:40 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:55:40 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:55:40 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:55:40 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:55:40 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:55:40 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 4ms
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:55:40 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:55:40 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 12:55:45 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:55:45 | [31m[1mERROR[0m | api.main             | [SESSION_ALREADY_COMPLETE] Session '68b65d70' is already complete. Use /report to get your results. | Path: /answer
+2026-03-18 12:55:45 | [32m[1mINFO[0m | api.main             | ← POST /answer | 400 | 3ms
+2026-03-18 12:55:47 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:55:47 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:55:47 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:55:50 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:55:50 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:55:50 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 12:55:57 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:55:57 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:55:57 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:56:00 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:56:00 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:56:00 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:56:00 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:56:00 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:56:00 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 12:56:00 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:56:00 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:56:00 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:56:04 | [32m[1mINFO[0m | api.main             | → POST /start
+2026-03-18 12:56:04 | [32m[1mINFO[0m | api.start            | [82705ae3] New session started | Company: google | Resume: 2,518 chars | JD: 9 chars
+2026-03-18 12:56:04 | [32m[1mINFO[0m | api.start            | [82705ae3] Running Resume Parser...
+2026-03-18 12:56:05 | [32m[1mINFO[0m | api.start            | [82705ae3] Resume Parser completed in 585ms
+2026-03-18 12:56:05 | [32m[1mINFO[0m | api.start            | [82705ae3] Running JD Analyzer...
+2026-03-18 12:56:06 | [32m[1mINFO[0m | api.start            | [82705ae3] JD Analyzer completed in 525ms
+2026-03-18 12:56:06 | [32m[1mINFO[0m | api.start            | [82705ae3] Running Web Researcher...
+2026-03-18 12:56:10 | [32m[1mINFO[0m | api.start            | [82705ae3] Web Researcher completed in 4874ms
+2026-03-18 12:56:10 | [32m[1mINFO[0m | api.start            | [82705ae3] Running Question Generator...
+2026-03-18 12:56:16 | [32m[1mINFO[0m | api.start            | [82705ae3] Question Generator completed in 5405ms
+2026-03-18 12:56:16 | [32m[1mINFO[0m | api.start            | [82705ae3] Running Interviewer...
+2026-03-18 12:56:16 | [32m[1mINFO[0m | api.start            | [82705ae3] Interviewer completed in 369ms
+2026-03-18 12:56:16 | [32m[1mINFO[0m | api.start            | [82705ae3] Session ready | 15 questions generated | Total time: 11760ms
+2026-03-18 12:56:16 | [32m[1mINFO[0m | api.main             | ← POST /start | 200 | 11762ms
+2026-03-18 12:56:16 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:56:16 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:56:16 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:56:16 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:56:16 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:56:16 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:56:20 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:56:20 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:56:20 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:56:20 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:56:20 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:56:20 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:56:23 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:56:23 | [32m[1mINFO[0m | api.answer           | [82705ae3] Answer received for Q1/15 | 20 chars
+2026-03-18 12:56:24 | [32m[1mINFO[0m | api.answer           | [82705ae3] Q1 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 894ms
+2026-03-18 12:56:25 | [32m[1mINFO[0m | api.answer           | [82705ae3] Moving to Q2/15
+2026-03-18 12:56:25 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1474ms
+2026-03-18 12:56:30 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:56:30 | [32m[1mINFO[0m | api.answer           | [82705ae3] Answer received for Q2/15 | 12 chars
+2026-03-18 12:56:31 | [32m[1mINFO[0m | api.answer           | [82705ae3] Q2 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 953ms
+2026-03-18 12:56:31 | [32m[1mINFO[0m | api.answer           | [82705ae3] Moving to Q3/15
+2026-03-18 12:56:31 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1438ms
+2026-03-18 12:56:31 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:56:31 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:56:31 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:56:31 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:56:31 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:56:31 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:56:36 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:56:36 | [32m[1mINFO[0m | api.answer           | [82705ae3] Answer received for Q3/15 | 18 chars
+2026-03-18 12:56:37 | [32m[1mINFO[0m | api.answer           | [82705ae3] Q3 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1211ms
+2026-03-18 12:56:38 | [32m[1mINFO[0m | api.answer           | [82705ae3] Moving to Q4/15
+2026-03-18 12:56:38 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1621ms
+2026-03-18 12:56:40 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:56:40 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:56:40 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:56:40 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:56:40 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:56:40 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:56:43 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:56:43 | [32m[1mINFO[0m | api.answer           | [82705ae3] Answer received for Q4/15 | 21 chars
+2026-03-18 12:56:44 | [32m[1mINFO[0m | api.answer           | [82705ae3] Q4 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 949ms
+2026-03-18 12:56:45 | [32m[1mINFO[0m | api.answer           | [82705ae3] Moving to Q5/15
+2026-03-18 12:56:45 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1474ms
+2026-03-18 12:56:50 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:56:50 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:56:50 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:56:50 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:56:50 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:56:50 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:56:51 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:56:51 | [32m[1mINFO[0m | api.answer           | [82705ae3] Answer received for Q5/15 | 18 chars
+2026-03-18 12:56:53 | [32m[1mINFO[0m | api.answer           | [82705ae3] Q5 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1567ms
+2026-03-18 12:56:53 | [32m[1mINFO[0m | api.answer           | [82705ae3] Moving to Q6/15
+2026-03-18 12:56:53 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1965ms
+2026-03-18 12:56:59 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:56:59 | [32m[1mINFO[0m | api.answer           | [82705ae3] Answer received for Q6/15 | 14 chars
+2026-03-18 12:57:00 | [32m[1mINFO[0m | api.answer           | [82705ae3] Q6 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 958ms
+2026-03-18 12:57:01 | [32m[1mINFO[0m | api.answer           | [82705ae3] Moving to Q7/15
+2026-03-18 12:57:01 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1447ms
+2026-03-18 12:57:01 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:57:01 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:57:01 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 12:57:01 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:57:01 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:57:01 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 12:57:05 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:57:05 | [32m[1mINFO[0m | api.answer           | [82705ae3] Answer received for Q7/15 | 13 chars
+2026-03-18 12:57:07 | [32m[1mINFO[0m | api.answer           | [82705ae3] Q7 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1032ms
+2026-03-18 12:57:07 | [32m[1mINFO[0m | api.answer           | [82705ae3] Moving to Q8/15
+2026-03-18 12:57:07 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1514ms
+2026-03-18 12:57:10 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:57:10 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:57:10 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:57:10 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:57:10 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:57:10 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:57:14 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:57:14 | [32m[1mINFO[0m | api.answer           | [82705ae3] Answer received for Q8/15 | 17 chars
+2026-03-18 12:57:16 | [32m[1mINFO[0m | api.answer           | [82705ae3] Q8 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1178ms
+2026-03-18 12:57:16 | [32m[1mINFO[0m | api.answer           | [82705ae3] Moving to Q9/15
+2026-03-18 12:57:16 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1526ms
+2026-03-18 12:57:20 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:57:20 | [32m[1mINFO[0m | api.answer           | [82705ae3] Answer received for Q9/15 | 7 chars
+2026-03-18 12:57:21 | [32m[1mINFO[0m | api.answer           | [82705ae3] Q9 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1091ms
+2026-03-18 12:57:22 | [32m[1mINFO[0m | api.answer           | [82705ae3] Moving to Q10/15
+2026-03-18 12:57:22 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1571ms
+2026-03-18 12:57:22 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:57:22 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:57:22 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:57:22 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:57:22 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:57:22 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:57:27 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:57:27 | [32m[1mINFO[0m | api.answer           | [82705ae3] Answer received for Q10/15 | 9 chars
+2026-03-18 12:57:28 | [32m[1mINFO[0m | api.answer           | [82705ae3] Q10 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1023ms
+2026-03-18 12:57:28 | [32m[1mINFO[0m | api.answer           | [82705ae3] Moving to Q11/15
+2026-03-18 12:57:28 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1505ms
+2026-03-18 12:57:30 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:57:30 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:57:30 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:57:30 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:57:30 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:57:30 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:57:32 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:57:32 | [32m[1mINFO[0m | api.answer           | [82705ae3] Answer received for Q11/15 | 6 chars
+2026-03-18 12:57:33 | [32m[1mINFO[0m | api.answer           | [82705ae3] Q11 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1090ms
+2026-03-18 12:57:34 | [32m[1mINFO[0m | api.answer           | [82705ae3] Moving to Q12/15
+2026-03-18 12:57:34 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1570ms
+2026-03-18 12:57:40 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:57:40 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:57:40 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:57:40 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:57:40 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:57:40 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:57:41 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:57:41 | [32m[1mINFO[0m | api.answer           | [82705ae3] Answer received for Q12/15 | 11 chars
+2026-03-18 12:57:42 | [32m[1mINFO[0m | api.answer           | [82705ae3] Q12 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1103ms
+2026-03-18 12:57:43 | [32m[1mINFO[0m | api.answer           | [82705ae3] Moving to Q13/15
+2026-03-18 12:57:43 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1587ms
+2026-03-18 12:57:50 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:57:50 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:57:50 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:57:50 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:57:50 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:57:50 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:57:51 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:57:51 | [32m[1mINFO[0m | api.answer           | [82705ae3] Answer received for Q13/15 | 14 chars
+2026-03-18 12:57:52 | [32m[1mINFO[0m | api.answer           | [82705ae3] Q13 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1071ms
+2026-03-18 12:57:53 | [32m[1mINFO[0m | api.answer           | [82705ae3] Moving to Q14/15
+2026-03-18 12:57:53 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1535ms
+2026-03-18 12:57:57 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:57:57 | [32m[1mINFO[0m | api.answer           | [82705ae3] Answer received for Q14/15 | 13 chars
+2026-03-18 12:57:58 | [32m[1mINFO[0m | api.answer           | [82705ae3] Q14 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1139ms
+2026-03-18 12:57:59 | [32m[1mINFO[0m | api.answer           | [82705ae3] Moving to Q15/15
+2026-03-18 12:57:59 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1658ms
+2026-03-18 12:58:00 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:58:00 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:58:00 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:58:00 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:58:00 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:58:00 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:58:05 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 12:58:05 | [32m[1mINFO[0m | api.answer           | [82705ae3] Answer received for Q15/15 | 17 chars
+2026-03-18 12:58:06 | [32m[1mINFO[0m | api.answer           | [82705ae3] Q15 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1040ms
+2026-03-18 12:58:06 | [32m[1mINFO[0m | api.answer           | [82705ae3] All questions answered — generating report...
+2026-03-18 12:58:45 | [32m[1mINFO[0m | api.answer           | [82705ae3] Report generated in 39369ms | Final avg score: 0.0/10 (0%)
+2026-03-18 12:58:45 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 40413ms
+2026-03-18 12:58:45 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:58:45 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:58:45 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 12:58:45 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:58:45 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:58:45 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:58:45 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:58:45 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:58:45 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:58:45 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:58:45 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:58:45 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:58:45 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:58:45 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:58:45 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:58:45 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:58:45 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:58:45 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:58:45 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:58:45 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:58:45 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 12:58:45 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:58:45 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:58:45 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 12:58:51 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:58:51 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:58:51 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:58:51 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:58:51 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:58:51 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:58:55 | [32m[1mINFO[0m | api.main             | → GET /report/82705ae3
+2026-03-18 12:58:55 | [32m[1mINFO[0m | api.main             | Report download requested [82705ae3]
+2026-03-18 12:58:55 | [32m[1mINFO[0m | api.main             | Notification thread started [82705ae3]
+2026-03-18 12:58:55 | [32m[1mINFO[0m | api.main             | Serving PDF report [82705ae3]
+2026-03-18 12:58:55 | [32m[1mINFO[0m | api.main             | ← GET /report/82705ae3 | 200 | 7ms
+2026-03-18 12:58:58 | [31m[1mERROR[0m | notifier             | Gmail authentication failed — check NOTIFY_EMAIL and NOTIFY_PASSWORD in .env
+2026-03-18 12:59:01 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:59:01 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:59:01 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:59:01 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:59:01 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:59:01 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:59:11 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:59:11 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:59:11 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:59:12 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:59:12 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:59:12 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:59:21 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:59:21 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:59:21 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:59:22 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:59:22 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:59:22 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:59:31 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:59:31 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:59:31 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:59:32 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:59:32 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:59:32 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:59:41 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:59:41 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:59:41 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:59:42 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:59:42 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:59:42 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 12:59:47 | [32m[1mINFO[0m | api.main             | → GET /report/82705ae3
+2026-03-18 12:59:47 | [32m[1mINFO[0m | api.main             | Report download requested [82705ae3]
+2026-03-18 12:59:47 | [32m[1mINFO[0m | api.main             | Notification thread started [82705ae3]
+2026-03-18 12:59:47 | [32m[1mINFO[0m | api.main             | Serving PDF report [82705ae3]
+2026-03-18 12:59:47 | [32m[1mINFO[0m | api.main             | ← GET /report/82705ae3 | 200 | 4ms
+2026-03-18 12:59:50 | [31m[1mERROR[0m | notifier             | Gmail authentication failed — check NOTIFY_EMAIL and NOTIFY_PASSWORD in .env
+2026-03-18 12:59:51 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:59:51 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:59:51 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 12:59:52 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 12:59:52 | DEBUG    | api.main             | Serving index.html
+2026-03-18 12:59:52 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 13:00:01 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:00:01 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:00:01 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:00:02 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:00:02 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:00:02 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:00:11 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:00:11 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:00:11 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 13:00:12 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:00:12 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:00:12 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:00:21 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:00:21 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:00:21 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:00:22 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:00:22 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:00:22 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:00:31 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:00:31 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:00:31 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:00:32 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:00:32 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:00:32 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:00:41 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:00:41 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:00:41 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:00:43 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:00:43 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:00:43 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:00:51 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:00:51 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:00:51 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:00:53 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:00:53 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:00:53 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:01:01 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:01:01 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:01:01 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:01:03 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:01:03 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:01:03 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:01:11 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:01:11 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:01:11 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:01:13 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:01:13 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:01:13 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:01:21 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:01:21 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:01:21 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:01:23 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:01:23 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:01:23 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 13:01:31 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:01:31 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:01:31 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:01:33 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:01:33 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:01:33 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:01:41 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:01:41 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:01:41 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 13:01:43 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:01:43 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:01:43 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:01:51 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:01:51 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:01:51 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:01:53 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:01:53 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:01:53 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:02:01 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:02:01 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:02:01 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:02:03 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:02:03 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:02:03 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:02:11 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:02:11 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:02:11 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 13:02:13 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:02:13 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:02:13 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:02:21 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:02:21 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:02:21 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:02:23 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:02:23 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:02:23 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:02:31 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:02:31 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:02:31 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:02:33 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:02:33 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:02:33 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:02:41 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:02:41 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:02:41 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:02:43 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:02:43 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:02:43 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:02:51 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:02:51 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:02:51 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:02:53 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:02:53 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:02:53 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:03:01 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:03:01 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:03:01 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:03:03 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:03:03 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:03:03 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:03:11 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:03:11 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:03:11 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:03:13 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:03:13 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:03:13 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:03:21 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:03:21 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:03:21 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:03:23 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:03:23 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:03:23 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:03:31 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:03:31 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:03:31 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:03:33 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:03:33 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:03:33 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:03:41 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:03:41 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:03:41 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:03:43 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:03:43 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:03:43 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:03:51 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:03:51 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:03:51 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:03:53 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:03:53 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:03:53 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:04:02 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:04:02 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:04:02 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:04:03 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:04:03 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:04:03 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 13:04:12 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:04:12 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:04:12 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:04:13 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:04:13 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:04:13 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:04:22 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:04:22 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:04:22 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:04:23 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:04:23 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:04:23 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:04:32 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:04:32 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:04:32 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:04:33 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:04:33 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:04:33 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:04:42 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:04:42 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:04:42 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:04:43 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:04:43 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:04:43 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:04:52 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:04:52 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:04:52 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:04:53 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:04:53 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:04:53 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:05:02 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:05:02 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:05:02 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:05:03 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:05:03 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:05:03 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:05:12 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:05:12 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:05:12 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 13:05:13 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:05:13 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:05:13 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 13:05:22 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:05:22 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:05:22 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:05:23 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:05:23 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:05:23 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:05:32 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:05:32 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:05:32 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:05:33 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:05:33 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:05:33 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:05:42 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:05:42 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:05:42 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 13:05:43 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:05:43 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:05:43 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:05:52 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:05:52 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:05:52 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:05:53 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:05:53 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:05:54 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:06:02 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:06:02 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:06:02 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:06:03 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:06:03 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:06:03 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 13:06:12 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:06:12 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:06:12 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 74ms
+2026-03-18 13:06:43 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:06:43 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:06:43 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:06:43 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:06:43 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:06:43 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:06:44 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:06:44 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:06:44 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:06:52 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:06:52 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:06:52 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 13:06:54 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:06:54 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:06:54 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:07:02 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:07:02 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:07:02 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:07:04 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:07:04 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:07:04 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 13:07:06 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:07:06 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:07:06 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:07:06 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:07:06 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:07:06 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 5ms
+2026-03-18 13:07:11 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:07:11 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:07:11 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:07:11 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:07:11 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:07:11 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 2ms
+2026-03-18 13:07:12 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:07:12 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:07:12 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:07:14 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:07:14 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:07:14 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:07:16 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:07:16 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:07:16 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 2ms
+2026-03-18 13:07:21 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:07:21 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:07:21 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 2ms
+2026-03-18 13:07:22 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:07:22 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:07:22 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 13:07:24 | [32m[1mINFO[0m | api.main             | → POST /upload-resume
+2026-03-18 13:07:24 | [32m[1mINFO[0m | api.main             | Resume upload received: Pinki Resume (2).pdf (application/pdf)
+2026-03-18 13:07:24 | [32m[1mINFO[0m | api.main             | Resume extracted: 2,519 chars from 'Pinki Resume (2).pdf' in 80ms
+2026-03-18 13:07:24 | [32m[1mINFO[0m | api.main             | ← POST /upload-resume | 200 | 90ms
+2026-03-18 13:07:24 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:07:24 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:07:24 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:07:27 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:07:27 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:07:27 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 1ms
+2026-03-18 13:07:31 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:07:31 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:07:31 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 2ms
+2026-03-18 13:07:32 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:07:32 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:07:32 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 13:07:34 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:07:34 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:07:34 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 13:07:37 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:07:37 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:07:37 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 2ms
+2026-03-18 13:07:41 | [32m[1mINFO[0m | api.main             | → OPTIONS /start
+2026-03-18 13:07:41 | [32m[1mINFO[0m | api.main             | ← OPTIONS /start | 200 | 1ms
+2026-03-18 13:07:41 | [32m[1mINFO[0m | api.main             | → POST /start
+2026-03-18 13:07:41 | [32m[1mINFO[0m | api.start            | [e954ce94] New session started | Company: google | Resume: 2,518 chars | JD: 9 chars
+2026-03-18 13:07:41 | [32m[1mINFO[0m | api.start            | [e954ce94] Running Resume Parser...
+2026-03-18 13:07:41 | [32m[1mINFO[0m | api.start            | [e954ce94] Resume Parser completed in 808ms
+2026-03-18 13:07:41 | [32m[1mINFO[0m | api.start            | [e954ce94] Running JD Analyzer...
+2026-03-18 13:07:42 | [32m[1mINFO[0m | api.start            | [e954ce94] JD Analyzer completed in 704ms
+2026-03-18 13:07:42 | [32m[1mINFO[0m | api.start            | [e954ce94] Running Web Researcher...
+2026-03-18 13:07:52 | [32m[1mINFO[0m | api.start            | [e954ce94] Web Researcher completed in 10129ms
+2026-03-18 13:07:52 | [32m[1mINFO[0m | api.start            | [e954ce94] Running Question Generator...
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.start            | [e954ce94] Question Generator completed in 5564ms
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.start            | [e954ce94] Running Interviewer...
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.start            | [e954ce94] Interviewer completed in 563ms
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.start            | [e954ce94] Session ready | 15 questions generated | Total time: 17772ms
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | ← POST /start | 200 | 17776ms
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:07:58 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 10ms
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 22ms
+2026-03-18 13:07:58 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 11ms
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:07:58 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 19ms
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:07:58 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 9ms
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 6ms
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:07:58 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 8ms
+2026-03-18 13:08:02 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:08:02 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:08:02 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 2ms
+2026-03-18 13:08:02 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:08:02 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:08:02 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:08:04 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:08:04 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:08:04 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:08:05 | [32m[1mINFO[0m | api.main             | → OPTIONS /answer
+2026-03-18 13:08:05 | [32m[1mINFO[0m | api.main             | ← OPTIONS /answer | 200 | 1ms
+2026-03-18 13:08:05 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 13:08:05 | [32m[1mINFO[0m | api.answer           | [e954ce94] Answer received for Q1/15 | 13 chars
+2026-03-18 13:08:06 | [32m[1mINFO[0m | api.answer           | [e954ce94] Q1 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 962ms
+2026-03-18 13:08:06 | [32m[1mINFO[0m | api.answer           | [e954ce94] Moving to Q2/15
+2026-03-18 13:08:06 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1572ms
+2026-03-18 13:08:07 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:08:07 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:08:07 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 1ms
+2026-03-18 13:08:11 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 13:08:11 | [32m[1mINFO[0m | api.answer           | [e954ce94] Answer received for Q2/15 | 15 chars
+2026-03-18 13:08:12 | [32m[1mINFO[0m | api.answer           | [e954ce94] Q2 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1006ms
+2026-03-18 13:08:13 | [32m[1mINFO[0m | api.answer           | [e954ce94] Moving to Q3/15
+2026-03-18 13:08:13 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1544ms
+2026-03-18 13:08:13 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:08:13 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:08:13 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:08:13 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:08:13 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:08:13 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 5ms
+2026-03-18 13:08:14 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:08:14 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:08:14 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 13:08:18 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:08:18 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:08:18 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 2ms
+2026-03-18 13:08:18 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 13:08:18 | [32m[1mINFO[0m | api.answer           | [e954ce94] Answer received for Q3/15 | 21 chars
+2026-03-18 13:08:19 | [32m[1mINFO[0m | api.answer           | [e954ce94] Q3 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1182ms
+2026-03-18 13:08:20 | [32m[1mINFO[0m | api.answer           | [e954ce94] Moving to Q4/15
+2026-03-18 13:08:20 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1697ms
+2026-03-18 13:08:22 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:08:22 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:08:22 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 2ms
+2026-03-18 13:08:22 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:08:22 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:08:22 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:08:24 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:08:24 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:08:24 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:08:25 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 13:08:25 | [32m[1mINFO[0m | api.answer           | [e954ce94] Answer received for Q4/15 | 18 chars
+2026-03-18 13:08:26 | [32m[1mINFO[0m | api.answer           | [e954ce94] Q4 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1024ms
+2026-03-18 13:08:26 | [32m[1mINFO[0m | api.answer           | [e954ce94] Moving to Q5/15
+2026-03-18 13:08:26 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1544ms
+2026-03-18 13:08:28 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:08:28 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:08:28 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 3ms
+2026-03-18 13:08:31 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 13:08:31 | [32m[1mINFO[0m | api.answer           | [e954ce94] Answer received for Q5/15 | 12 chars
+2026-03-18 13:08:32 | [32m[1mINFO[0m | api.answer           | [e954ce94] Q5 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1041ms
+2026-03-18 13:08:33 | [32m[1mINFO[0m | api.answer           | [e954ce94] Moving to Q6/15
+2026-03-18 13:08:33 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1774ms
+2026-03-18 13:08:33 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:08:33 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:08:33 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:08:33 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:08:33 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:08:33 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 6ms
+2026-03-18 13:08:34 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:08:34 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:08:34 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:08:38 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:08:38 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:08:38 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 2ms
+2026-03-18 13:08:38 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 13:08:38 | [32m[1mINFO[0m | api.answer           | [e954ce94] Answer received for Q6/15 | 20 chars
+2026-03-18 13:08:38 | [32m[1mINFO[0m | api.answer           | [e954ce94] Q6 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 769ms
+2026-03-18 13:08:39 | [32m[1mINFO[0m | api.answer           | [e954ce94] Moving to Q7/15
+2026-03-18 13:08:39 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1337ms
+2026-03-18 13:08:42 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:08:42 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:08:42 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 2ms
+2026-03-18 13:08:42 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:08:42 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:08:42 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 13:08:43 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 13:08:43 | [32m[1mINFO[0m | api.answer           | [e954ce94] Answer received for Q7/15 | 12 chars
+2026-03-18 13:08:44 | [32m[1mINFO[0m | api.answer           | [e954ce94] Q7 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 969ms
+2026-03-18 13:08:44 | [32m[1mINFO[0m | api.answer           | [e954ce94] Moving to Q8/15
+2026-03-18 13:08:44 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1485ms
+2026-03-18 13:08:44 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:08:44 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:08:44 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 4ms
+2026-03-18 13:08:48 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:08:48 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:08:48 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 3ms
+2026-03-18 13:08:48 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 13:08:48 | [32m[1mINFO[0m | api.answer           | [e954ce94] Answer received for Q8/15 | 13 chars
+2026-03-18 13:08:49 | [32m[1mINFO[0m | api.answer           | [e954ce94] Q8 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1052ms
+2026-03-18 13:08:50 | [32m[1mINFO[0m | api.answer           | [e954ce94] Moving to Q9/15
+2026-03-18 13:08:50 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1776ms
+2026-03-18 13:08:52 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:08:52 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:08:52 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 1ms
+2026-03-18 13:08:52 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:08:52 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:08:52 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:08:54 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:08:54 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:08:54 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:08:55 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 13:08:55 | [32m[1mINFO[0m | api.answer           | [e954ce94] Answer received for Q9/15 | 13 chars
+2026-03-18 13:08:55 | [32m[1mINFO[0m | api.answer           | [e954ce94] Q9 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 899ms
+2026-03-18 13:08:56 | [32m[1mINFO[0m | api.answer           | [e954ce94] Moving to Q10/15
+2026-03-18 13:08:56 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1517ms
+2026-03-18 13:08:58 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:08:58 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:08:58 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 1ms
+2026-03-18 13:09:00 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 13:09:00 | [32m[1mINFO[0m | api.answer           | [e954ce94] Answer received for Q10/15 | 10 chars
+2026-03-18 13:09:01 | [32m[1mINFO[0m | api.answer           | [e954ce94] Q10 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1252ms
+2026-03-18 13:09:02 | [32m[1mINFO[0m | api.answer           | [e954ce94] Moving to Q11/15
+2026-03-18 13:09:02 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1872ms
+2026-03-18 13:09:02 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:09:02 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:09:02 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 4ms
+2026-03-18 13:09:02 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:09:02 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:09:02 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:09:04 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:09:04 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:09:04 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:09:08 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:09:08 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:09:08 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 2ms
+2026-03-18 13:09:09 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 13:09:09 | [32m[1mINFO[0m | api.answer           | [e954ce94] Answer received for Q11/15 | 13 chars
+2026-03-18 13:09:10 | [32m[1mINFO[0m | api.answer           | [e954ce94] Q11 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1380ms
+2026-03-18 13:09:11 | [32m[1mINFO[0m | api.answer           | [e954ce94] Moving to Q12/15
+2026-03-18 13:09:11 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 2019ms
+2026-03-18 13:09:12 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:09:12 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:09:12 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 2ms
+2026-03-18 13:09:12 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:09:12 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:09:12 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 13:09:14 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:09:14 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:09:14 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 1ms
+2026-03-18 13:09:17 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 13:09:17 | [32m[1mINFO[0m | api.answer           | [e954ce94] Answer received for Q12/15 | 13 chars
+2026-03-18 13:09:18 | [32m[1mINFO[0m | api.answer           | [e954ce94] Q12 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 917ms
+2026-03-18 13:09:18 | [32m[1mINFO[0m | api.answer           | [e954ce94] Moving to Q13/15
+2026-03-18 13:09:18 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1429ms
+2026-03-18 13:09:18 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:09:18 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:09:18 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 2ms
+2026-03-18 13:09:22 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:09:22 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:09:22 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 1ms
+2026-03-18 13:09:22 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:09:22 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:09:22 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:09:23 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 13:09:23 | [32m[1mINFO[0m | api.answer           | [e954ce94] Answer received for Q13/15 | 18 chars
+2026-03-18 13:09:24 | [32m[1mINFO[0m | api.answer           | [e954ce94] Q13 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1060ms
+2026-03-18 13:09:25 | [32m[1mINFO[0m | api.answer           | [e954ce94] Moving to Q14/15
+2026-03-18 13:09:25 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1669ms
+2026-03-18 13:09:25 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:09:25 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:09:25 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:09:28 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:09:28 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:09:28 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 1ms
+2026-03-18 13:09:30 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 13:09:30 | [32m[1mINFO[0m | api.answer           | [e954ce94] Answer received for Q14/15 | 12 chars
+2026-03-18 13:09:31 | [32m[1mINFO[0m | api.answer           | [e954ce94] Q14 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1208ms
+2026-03-18 13:09:31 | [32m[1mINFO[0m | api.answer           | [e954ce94] Moving to Q15/15
+2026-03-18 13:09:31 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 1716ms
+2026-03-18 13:09:32 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:09:32 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:09:32 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 2ms
+2026-03-18 13:09:32 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:09:32 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:09:32 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:09:34 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:09:34 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:09:34 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:09:36 | [32m[1mINFO[0m | api.main             | → POST /answer
+2026-03-18 13:09:36 | [32m[1mINFO[0m | api.answer           | [e954ce94] Answer received for Q15/15 | 26 chars
+2026-03-18 13:09:38 | [32m[1mINFO[0m | api.answer           | [e954ce94] Q15 evaluated | Score: 0.0/10 | S:0 T:0 A:0 R:0 | 1230ms
+2026-03-18 13:09:38 | [32m[1mINFO[0m | api.answer           | [e954ce94] All questions answered — generating report...
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.answer           | [e954ce94] Report generated in 44394ms | Final avg score: 0.0/10 (0%)
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← POST /answer | 200 | 45628ms
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:10:22 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 9ms
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:10:22 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 5ms
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 5ms
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:10:22 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 5ms
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:10:22 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 9ms
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:10:22 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 7ms
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:10:22 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 11ms
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 29ms
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:10:22 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 7ms
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 5ms
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:10:22 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 5ms
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 3ms
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 4ms
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 4ms
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 3ms
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:10:22 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:10:22 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:10:25 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:10:25 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:10:25 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:10:28 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:10:28 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:10:28 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 2ms
+2026-03-18 13:10:32 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:10:32 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:10:32 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 2ms
+2026-03-18 13:10:32 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:10:32 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:10:32 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 3ms
+2026-03-18 13:10:33 | [32m[1mINFO[0m | api.main             | → GET /report/e954ce94
+2026-03-18 13:10:33 | [32m[1mINFO[0m | api.main             | Report download requested [e954ce94]
+2026-03-18 13:10:33 | [32m[1mINFO[0m | api.main             | Notification thread started [e954ce94]
+2026-03-18 13:10:33 | [32m[1mINFO[0m | api.main             | Serving PDF report [e954ce94]
+2026-03-18 13:10:33 | [32m[1mINFO[0m | api.main             | ← GET /report/e954ce94 | 200 | 15ms
+2026-03-18 13:10:35 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:10:35 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:10:35 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
+2026-03-18 13:10:36 | [31m[1mERROR[0m | notifier             | Gmail authentication failed — check NOTIFY_EMAIL and NOTIFY_PASSWORD in .env
+2026-03-18 13:10:38 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:10:38 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:10:38 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 2ms
+2026-03-18 13:10:42 | [32m[1mINFO[0m | api.main             | → GET /health
+2026-03-18 13:10:42 | [32m[1mINFO[0m | api.main             | Health check OK
+2026-03-18 13:10:42 | [32m[1mINFO[0m | api.main             | ← GET /health | 200 | 2ms
+2026-03-18 13:10:42 | [32m[1mINFO[0m | api.main             | → GET /
+2026-03-18 13:10:42 | DEBUG    | api.main             | Serving index.html
+2026-03-18 13:10:42 | [32m[1mINFO[0m | api.main             | ← GET / | 200 | 2ms
