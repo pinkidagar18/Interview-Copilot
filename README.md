@@ -707,7 +707,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 **Pinki Dagar**
 - Email: [pinkidagar18@gmail.com](mailto:pinkidagar18@gmail.com)
 - GitHub: [@pinkidagar18](https://github.com/pinkidagar18)
-- HuggingFace: [pinkidagar18](https://huggingface.co/pinkidagar18)
+  
 
 ---
 
@@ -737,4 +737,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 > Made with ❤️ for every student preparing for their dream internship
 
-> 🚀 Live Demo: [HuggingFace Spaces](https://huggingface.co/spaces/pinkidagar18/interview-copilot)
+
