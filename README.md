@@ -519,12 +519,7 @@ Full PDF report with overall readiness %, per-dimension STAR scores, areas needi
 
 ![PDF Report](screenshots/report.png)
 
----
 
-### 5. System Architecture
-Full multi-agent pipeline from user input through 7 AI agents to PDF output and deployment.
-
-![Architecture](screenshots/architecture.png)
 
 ---
 
